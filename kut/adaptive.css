@@ -11,6 +11,9 @@
     .line {
         width: 150%;
     }
+    .slider {
+        width: 70%;
+    }
 }
 
 @media screen and (max-width:476px) {
@@ -34,6 +37,9 @@
     .flat-block {
         margin: auto;
     }
+    .slider {
+        width: 70%;
+    }
 }
 @media screen and (max-width:769px) {
     .logo-img {
@@ -56,6 +62,9 @@
     .flat-block {
         margin: auto;
     }
+    .slider {
+        width: 70%;
+    }
 }
 @media screen and (max-width:992px) {
     .logo-img {
@@ -70,5 +79,8 @@
     }
     .line {
         width: 150%;
+    }
+    .slider {
+        width: 70%;
     }
 }
